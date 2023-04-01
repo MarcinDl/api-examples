@@ -1,0 +1,8 @@
+{
+  "employeeDetails": [
+    {"id":"001", "familyName":"Kowalski", "name": "Jan", "salary": "3000", "occupation": "JS Dev"},
+    {"id":"002", "familyName":"Nowak", "name": "Michał", "salary": "1000", "occupation": "Intern"},
+    {"id":"003", "familyName":"Duda", "name": "Miłosz", "salary": "2500", "occupation": "Java Dev"},
+    {"id":"004", "familyName":"Dłubis", "name": "Marcin", "salary": "12500", "occupation": "Architect"},
+  ]
+}
