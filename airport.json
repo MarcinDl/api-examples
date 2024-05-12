@@ -1,3 +1,11 @@
 {
-  "foo": "bar"
+  "airportsList": [
+    {"city": "Katowice", "code": "KTW", "name": "Pyrzowice"},
+    {"city": "Kraków", "code": "KRK", "airport_name": "Balice"},
+    {"city": "Warszawa", "code": "WAW", "airport_name": "Okęcie"},
+    {"city": "Paryż", "code": "CDG", "airport_name": "Charles de Gaulle"},
+    {"city": "Monachium", "code": "MUC", "airport_name": "Monachium"},
+    {"city": "Nowy Jork", "code": "NYC", "airport_name": "JF Kennedy"},
+    {"city": "Pekin", "code": "PEK", "airport_name": "IATA"}
+  ]
 }
